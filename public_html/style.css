@@ -12,6 +12,7 @@
     color:#333;
     overflow-x:hidden;
 }
+/* video/ welcome section */
 
 .v-header{
     height:100vh;
@@ -94,3 +95,4 @@
         justify-content: center;
     }
 }
+/* about us */
